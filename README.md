@@ -42,6 +42,7 @@ exports.rest = {
   package: 'egg-rest',
 };
 ```
+**Notes: Please make sure `egg-validate` is enabled**
 
 ## Configuration
 
